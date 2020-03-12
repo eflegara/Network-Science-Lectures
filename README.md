@@ -10,4 +10,4 @@ In this repository, I share some of the Jupyter notebooks I use in the Network S
 4. [Community Detection in Complex Networks](https://github.com/eflegara/Network-Science/blob/master/Community%20Detection.ipynb)
 5. Target and Attack in Complex Networks
 6. Application: Information Flow
-7. Application: Social Distancing (An Elementary Model)
+7. [Application: Social Distancing (An Elementary Model)](https://github.com/eflegara/Network-Science/blob/master/Exploring%20Social%20Distancing.ipynb)

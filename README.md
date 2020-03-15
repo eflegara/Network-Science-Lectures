@@ -1,5 +1,7 @@
 # Network Science
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/eflegara/Network-Science-Lectures/blob/master/LICENSE)
+
 In this repository, I share some of the Jupyter notebooks I use in the Network Science class I offer under the [Asian Institute of Management](https://aim.edu/)'s [MSc. in Data Science](https://erikalegara.site/msds-unplugged/) program where Network Science is a core data science course.
 
 ### Table of Contents

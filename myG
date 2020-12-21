@@ -1,0 +1,10 @@
+Erika Chris {}
+Erika Gino {}
+Erika Ann {}
+Erika Mary {}
+Erika Faye {}
+Chris Gino {}
+Gino Christian {}
+Ann Faye {'weight': 8, 'friendship': 4}
+Ann Mary {'weight': 30, 'relatioinship_type': 'siblings', 'friendship': 2}
+Faye Mary {'weight': 10, 'relatioinship_type': 'friends'}

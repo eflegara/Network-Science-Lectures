@@ -11,5 +11,9 @@ In this repository, I share some of the Jupyter notebooks I use in the Network S
 3. [Exploring Network Vulnerability and Robustness with Centrality Measures](https://github.com/eflegara/Network-Science/blob/master/Centrality%20Measures.ipynb)
 4. [Community Detection in Complex Networks](https://github.com/eflegara/Network-Science/blob/master/Community%20Detection.ipynb)
 5. [Error and Attack in Complex Networks](https://github.com/eflegara/Network-Science/blob/master/Error%20and%20Attack%20Tolerance.ipynb)
-6. Application: Information Flow
+6. [Application: Exploring Vaccination Strategies](https://github.com/eflegara/Network-Science/blob/master/Vaccination%20Strategies.ipynb)
 7. [Application: Social Distancing (An Elementary Model)](https://github.com/eflegara/Network-Science/blob/master/Exploring%20Social%20Distancing.ipynb)
+
+### Dependencies
+
+Just make sure you have [NetworkX](https://networkx.org/) installed in your machine. We are also using the Louvain Method in the detecting communities, so install the [`python-louvain` library](https://github.com/taynaud/python-louvain) as well.

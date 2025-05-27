@@ -1,4 +1,4 @@
-# Network Science# Network Science Lectures
+# Network Science Lectures
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/eflegara/Network-Science-Lectures/blob/master/LICENSE.md)
 

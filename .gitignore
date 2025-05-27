@@ -1,20 +1,55 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
 
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
 .DS_Store
-.ipynb_checkpoints/Intro to Network Analysis-checkpoint.ipynb
-.ipynb_checkpoints/Centrality Measures-checkpoint.ipynb
-.ipynb_checkpoints/Intro to Network Analysis-checkpoint.ipynb
-.ipynb_checkpoints/Community Detection-checkpoint.ipynb
-.ipynb_checkpoints/README-checkpoint.md
-.ipynb_checkpoints/CN Models-checkpoint.ipynb
-.ipynb_checkpoints/CN Models-checkpoint.ipynb
-.ipynb_checkpoints/Community Detection-checkpoint.ipynb
-.ipynb_checkpoints/Error and Attack Tolerance-checkpoint.ipynb
-.ipynb_checkpoints/Exploring Social Distancing-checkpoint.ipynb
-.ipynb_checkpoints/Intro to Network Analysis-checkpoint.ipynb
-.ipynb_checkpoints/Community Detection-checkpoint.ipynb
-.ipynb_checkpoints/CN Models-checkpoint.ipynb
-.ipynb_checkpoints/CN Models-checkpoint.ipynb
-.ipynb_checkpoints/Vaccination Strategies-checkpoint.ipynb
-.ipynb_checkpoints/Community Detection-checkpoint.ipynb
-.ipynb_checkpoints/Community Detection-checkpoint.ipynb
-.ipynb_checkpoints/Friendship Paradox-checkpoint.ipynb
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data files (optional - uncomment if you have large datasets)
+# *.csv
+# *.xlsx
+# *.json
+# data/

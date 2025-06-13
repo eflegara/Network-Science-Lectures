@@ -1,0 +1,8 @@
+networkx
+matplotlib
+seaborn
+numpy
+pandas
+scipy
+lmfit
+python-louvain

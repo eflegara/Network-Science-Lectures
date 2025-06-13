@@ -47,7 +47,7 @@ jupyter notebook
 
 #### Required Libraries
 - **NetworkX** - Network analysis and visualization
-- **Matplotlib** - Plotting and visualization  
+- **Matplotlib and Seaborn** - Plotting and visualization  
 - **NumPy** - Numerical computing
 - **Pandas** - Data manipulation
 - **SciPy** - Scientific computing
